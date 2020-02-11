@@ -1,0 +1,20 @@
+1. git init 
+	- Creates an empty local repository in the project directory 
+
+2a. git add <file name> 
+	- Adds a specific file to the created local repository
+
+2b. git add . 
+	- Adds all the files within the directory to the created local repository
+
+3. git commit -m "commit message here"
+	- Commits the files we added to the local repository 
+
+Create remote/online repository using GitHub
+
+4. git remote add origin "link"
+
+5. git push -u origin master 
+
+Git is a version control system to manage and and track source code history.
+GitHub is a cloud-based hosting service that helps manage our Git repositories. 
