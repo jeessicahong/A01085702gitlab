@@ -7,6 +7,9 @@
 2b. git add . 
 	- Adds all the files within the directory to the created local repository
 
+2c. git status
+	- Checks what has been committed and what has been modified in the working tree of Git 
+
 3. git commit -m "commit message here"
 	- Commits the files we added to the local repository 
 
