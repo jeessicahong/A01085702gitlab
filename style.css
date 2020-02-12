@@ -8,12 +8,22 @@
     height: 90vh;
   }
 
+  li{
+    border-radius: 10px;
+    border: 1px solid lightgrey;
+    padding: 10px;
+  }
+
   li:hover {
     cursor: pointer;
   }
 
+  ul{
+    list-style-type: none;
+  }
+
 table, tbody, tr, th, td{
-  border: 1px solid red;
+  border: 1px solid black;
   padding-left: 10px;
   padding-right: 10px;
 }
